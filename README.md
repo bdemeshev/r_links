@@ -1,6 +1,6 @@
-# Подборка русскоязычных ресурсов по R
+## Подборка русскоязычных ресурсов по R
 
-## Начнём с русскоязычных крупных книжек:
+### Начнём с русскоязычных крупных книжек:
 
 * Шипунов А.Б., Балдин Е.М. и др. [Наглядная статистика. Используем
 R!](http://ashipunov.info/shipunov/school/books/rbook.pdf)
@@ -9,7 +9,7 @@ R!](http://ashipunov.info/shipunov/school/books/rbook.pdf)
 * Василенко Є.С, [Обробка геологiчної iнформацiї з використанням програмного середовища R](https://www.dropbox.com/sh/gaxtktwbxyuu1ss/AAAb2XW0kquoxfLryf2aYeQZa?dl=0)
 * Кабаков Р.И. R в действии. [Анализ и визуализация данных на языке R](http://dmkpress.com/catalog/computer/statistics/978-5-94074-912-7/)
 
-## [Мелочовка](https://rus.stackexchange.com/questions/193):
+### [Мелочовка](https://rus.stackexchange.com/questions/193):
 
 * Стилевое руководство гугла:
 [english](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml),
@@ -27,7 +27,7 @@ R!](http://ashipunov.info/shipunov/school/books/rbook.pdf)
 * Зарядов И.С. [Введение в R: часть 2](http://www.ievbras.ru/ecostat/Kiril/R/Biblio/R_rus/%c7%e0%f0%ff%e4%ee%e2%20%f7%e0%f1%f2%fc_2.pdf)
 * Борис Демешев [Цикл маленьких заметок по R](http://bdemeshev.github.io/r_cycle/)
 
-## Он-лайн курсы и видеолекции с использованием R:
+### Он-лайн курсы и видеолекции с использованием R:
 
 * [Основы программирования на R от stepik.org](https://stepik.org/course/%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F-%D0%BD%D0%B0-R-497/)
 
@@ -37,11 +37,11 @@ R!](http://ashipunov.info/shipunov/school/books/rbook.pdf)
 
 
 
-# Избранные английские источники
+## Избранные английские источники
 
 Английских источников гораздо больше :)
 
-## Открытые крупные источники на английском:
+### Открытые крупные источники на английском:
 
 * Trevor Hastie, Robert Tibshirani, [An Introduction to Statistical
 Learning](http://www-bcf.usc.edu/~gareth/ISL/). По книжке есть [курс на
@@ -86,7 +86,7 @@ Rstudio**](https://www.rstudio.com/resources/cheatsheets/)
 
 * Агрегатор блогов [r-bloggers](http://r-bloggers.com/)
 
-## Он-лайн курсы
+### Он-лайн курсы
 
 * [Поисковик он-лайн курсов по R](http://r-exercises.com/r-courses/)
 
@@ -95,7 +95,7 @@ Rstudio**](https://www.rstudio.com/resources/cheatsheets/)
 * [datacamp.com](https://www.datacamp.com/) Несколько платных и бесплатных интерактивных курсов по R
 
 
-## Ссылки на подборки
+### Ссылки на подборки
 
 * [100 курсов и книг по
 R](https://pairach.com/2012/02/26/r-tutorials-from-universities-around-the-world/) от разных университетов
