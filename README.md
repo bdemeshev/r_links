@@ -12,8 +12,8 @@ R!](http://ashipunov.info/shipunov/school/books/rbook.pdf)
 ### [Мелочовка](https://rus.stackexchange.com/questions/193):
 
 * Стилевое руководство гугла:
-[english](https://google-styleguide.googlecode.com/svn/trunk/Rguide.xml),
-[русский](https://9ccb6b88-a-cba0391b-s-sites.googlegroups.com/a/kiber-guu.ru/r-practice/links/R_style_from_Google.pdf?attachauth=ANoY7crkge5FhA5LZtMwj6Ilur-WbnkKLijkDkoB01VZZAlsFoRjEo7YwgqvW-Gid6ffwBmz3TMT51kMnw8JljZeQlDPRXMKZctirezqTziipn5TOaB9D1IaQ7qzTSusjkIyYV2jMchrhAsXOHTo_G0VRztBxYeecm4HYS19M1VTxn-UluL_9tYpsOEpDvhV1ghlRvk57pCxDO3C4wSV63SQIy0p7cjo6r-HB6Dj0CG7iNKM_RTjaAw%3D&attredirects=0)
+[english](https://google.github.io/styleguide/Rguide.html),
+[русский](https://9ccb6b88-a-cba0391b-s-sites.googlegroups.com/a/kiber-guu.ru/r-practice/links/R_style_from_Google.pdf)
 * [Блог r-analytics](http://r-analytics.blogspot.ru).
 В блоге есть несколько
 других подборок русскоязычных ресурсов по R:
@@ -49,7 +49,7 @@ Learning](http://www-bcf.usc.edu/~gareth/ISL/). По книжке есть [ку
 class.standford.edu](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about)
 
 * Rob Hyndman, [Forecasting: principles and
-practice](https://otexts.org/fpp2/) Книжка по временным рядам от автора пакета forecast
+practice](https://otexts.org/fpp3/) Книжка по временным рядам от безбожника и автора пакета forecast Роба Хиндмана :)
 
 * Garrett Grolemund, Hadley Wickham, [R for Data
 Science](http://r4ds.had.co.nz/)
